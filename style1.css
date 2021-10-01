@@ -1,0 +1,50 @@
+/*
+CSS for Bubble Under site
+*/  body {
+ font-family: Verdana, Helvetica, Arial, sans-serif;
+background-color: #79a6d2;
+ line-height: 180%;
+ padding: 50px;
+}
+h1 {
+ font-family: "Arial", Helvetica, Arial, sans-serif;
+font-size: x-large;
+}
+li {
+ font-size: medium;
+}
+h2 {
+ color: black;
+ font-size: medium;
+ font-weight: bolder ;
+}
+ p {
+ font-size: small;
+ color: black;  }
+ em {
+  text-transform: uppercase;
+ }
+ #tagline p {  font-style: Arial;  font-family: Georgia, Times, serif;
+ }
+ h1, h2, h3 {
+  font-family: "Arial", Helvetica, Arial, sans-serif;
+  background-color: ;
+  color: black;  }
+  a {
+   font-weight: bold;
+  }
+  a:link {
+   color: black;
+  }
+  a:visited {
+   color: black;
+  }
+  a:hover {
+   text-decoration: underline;
+   color: black;
+   background-color: white;  }
+  a:active {
+   color: black;
+   background-color: white;  }
+   <p class="fun">A man walks into a bar; you would've thought he'd
+    see it coming!</p>
